@@ -8,83 +8,228 @@ problems, growing into a leadership role, and maximizing impact and earning pote
 
 ---
 
+## 💼 Core Competencies
+
+<div align="center">
+
+<table style="border: none; border-collapse: separate; border-spacing: 20px;">
+  <tr>
+    <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 12px; padding: 20px;">
+
+<h4 style="margin-top: 0;">🛠 Full-Stack Development</h4>
+<ul>
+  <li>React, Node.js, Prisma, Sequelize</li>
+  <li>REST APIs, GraphQL</li>
+  <li>End-to-end feature delivery</li>
+</ul>
+<hr style="border-top: 1px dotted #ccc;"/>
+<h4>⚡ Performance & Automation</h4>
+<ul>
+  <li>CI/CD pipelines & observability</li>
+  <li>Data processing workflows</li>
+  <li>Feature flags (LaunchDarkly)</li>
+</ul>
+
+</td>
+<td width="33%" valign="top" style="background: #f9f9f9; border-radius: 12px; padding: 20px;">
+
+<h4 style="margin-top: 0;">📐 System Design & Architecture</h4>
+<ul>
+  <li>Microservices & modular APIs</li>
+  <li>Scalable backend systems</li>
+  <li>Cloud-native patterns</li>
+</ul>
+<div style="height: 20px;"></div>
+<hr style="border-top: 1px dotted #ccc;"/>
+<h4>☁️ Cloud & Infrastructure</h4>
+<ul>
+  <li>AWS, GCP, Docker</li>
+  <li>Serverless Framework</li>
+  <li>Deployment strategy</li>
+</ul>
+
+</td>
+<td width="33%" valign="top" style="background: #f9f9f9; border-radius: 12px; padding: 20px;">
+
+<h4 style="margin-top: 0;">🧠 Problem Solving</h4>
+<ul>
+  <li>Debugging & optimization</li>
+  <li>Incident response</li>
+  <li>Root cause analysis</li>
+</ul>
+<div style="height: 20px;"></div>
+<hr style="border-top: 1px dotted #ccc;"/>
+<h4>🎨 UI/UX & Collaboration</h4>
+<ul>
+  <li>Tailwind, Radix UI, Figma</li>
+  <li>Clean, responsive interfaces</li>
+  <li>Code reviews & mentorship</li>
+</ul>
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🧰 Tech Stack
+
+---
+
+### 🎨 Frontend
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br/>CSS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br/>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br/>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" /><br/>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br/>Node.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /><br/>Express
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /><br/>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br/>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" /><br/>Sequelize
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" /><br/>Prisma
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" /><br/>GraphQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br/>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br/>AWS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /><br/>GCP
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/ios-filled/50/000000/jira.png" width="40" /><br/>Jira
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40" /><br/>CircleCI
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind CSS
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/OpenAI-API-green?logo=openai&logoColor=white" /><br/>OpenAI API
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" width="130" /><br/>React
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" width="130" /><br/>Next.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="130" /><br/>Angular
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white" width="130" /><br/>Ember.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Radix_UI-0F172A?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxNiIvPjwvc3ZnPg==" width="130" /><br/>Radix UI
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+### 🔧 Backend
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" width="130" /><br/>Node.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" width="130" /><br/>Express.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" width="130" /><br/>Prisma
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Sequelize-3F62AB?logo=sequelize&logoColor=white" width="130" /><br/>Sequelize
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="130" /><br/>GraphQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white" width="130" /><br/>ElasticSearch
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🛢️ Databases & Infrastructure
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" width="130" /><br/>PostgreSQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="130" /><br/>MySQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="130" /><br/>MongoDB
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="130" /><br/>Docker
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>GCP
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🧰 DevOps & Tooling
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="130" /><br/>Git
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" width="130" /><br/>CircleCI
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" width="130" /><br/>Jira
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" width="130" /><br/>OpenAI API
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/LaunchDarkly-212121?logo=launchdarkly&logoColor=white" width="130" /><br/>LaunchDarkly
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" width="130" /><br/>Datadog
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🧪 Testing Frameworks & Libraries
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/QUnit-9B30FF?logo=qunit&logoColor=white" width="130" /><br/>QUnit
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" width="130" /><br/>Cypress
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/React_Testing_Library-E33332?logo=testing-library&logoColor=white" width="130" /><br/>RTL
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white" width="130" /><br/>Mocha
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white" width="130" /><br/>Chai
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" width="130" /><br/>Jest
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -119,17 +264,23 @@ Check out some of the things I’ve been building:
 
 ## 📫 Let’s Connect
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="260">
       <a href="https://linkedin.com/in/tmood" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/><br/>LinkedIn
+        <img src="https://img.shields.io/badge/LinkedIn-Tamer%20Mahmoud-0A66C2?logo=linkedin&logoColor=white" width="240" />
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="380">
       <a href="mailto:tamer.m.mahmoud@gmail.com">
-        <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="30" alt="Email"/><br/>Email
+        <img src="https://img.shields.io/badge/Email-tamer.m.mahmoud@gmail.com-D14836?logo=gmail&logoColor=white" width="360" />
       </a>
     </td>
   </tr>
 </table>
+
+</div>
+
+
