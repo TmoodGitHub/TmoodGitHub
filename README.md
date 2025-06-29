@@ -75,6 +75,11 @@ I'm a Senior Software Engineer with over a decade of experience building scalabl
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind CSS
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/OpenAI-API-green?logo=openai&logoColor=white" /><br/>OpenAI API
+    </td>
+  </tr>
 </table>
 
 ---
