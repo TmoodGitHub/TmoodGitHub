@@ -87,7 +87,7 @@ I'm a Senior Software Engineer with over a decade of experience building scalabl
 ## 🚀 Projects
 Check out some of the things I’ve been building:
 
-- 🌌 [Vite React Portfolio](https://vite-react-portfolio-lime.vercel.app/): A responsive developer portfolio built with React, Vite, and Tailwind CSS, featuring dark mode, animated visuals, and a custom AI chatbot trained on my resume, GitHub, and LinkedIn to answer questions in a conversational way.
+- 🌌 [Vite React Portfolio](https://vite-react-portfolio-lime.vercel.app/) --[GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio): A responsive developer portfolio built with React, Vite, and Tailwind CSS, featuring dark mode, animated visuals, and a custom AI chatbot trained on my resume, GitHub, and LinkedIn to answer questions in a conversational way.
 - 🛠️ [Tmood-Academy](https://github.com/TmoodGitHub/Tmood-Academy): A full-stack application showcasing CRUD operations, data filtering, and an interactive dashboard, with ongoing improvements as I expand my skillset.
 
 ---
