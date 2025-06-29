@@ -60,7 +60,7 @@ I'm a Senior Software Engineer with over a decade of experience building scalabl
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /><br/>AWS
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br/>AWS
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /><br/>GCP
@@ -72,7 +72,7 @@ I'm a Senior Software Engineer with over a decade of experience building scalabl
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40" /><br/>CircleCI
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br/>Tailwind
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind CSS
     </td>
   </tr>
 </table>
