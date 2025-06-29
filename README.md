@@ -1,6 +1,10 @@
 # Hi, I'm Tamer Mahmoud 👋
 
-I'm a Senior Software Engineer with over a decade of experience building scalable, performant, and maintainable systems across the stack. I specialize in full-stack development, cloud infrastructure, and automation, with a strong track record of leading complex migrations, mentoring developers, and improving engineering workflows.
+Software Engineer with 10+ years of experience driving technical excellence and building scalable, high-performance systems.
+Expertise in full-stack development, system design, and automation, with ability to enhance system efficiency, streamline data
+pipelines, and lead high-stakes architectural decisions. Spearheaded complex migrations to microservices, improved incident
+response times, and optimized feature delivery through strategic use of automation. Focused on solving challenging technical
+problems, growing into a leadership role, and maximizing impact and earning potential in a remote senior engineering position.
 
 ---
 
@@ -87,8 +91,7 @@ I'm a Senior Software Engineer with over a decade of experience building scalabl
 ## 🚀 Projects
 Check out some of the things I’ve been building:
 
-- 🌌 [Vite React Portfolio](https://vite-react-portfolio-lime.vercel.app/) -- [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio): A responsive developer portfolio built with React, Vite, and Tailwind CSS, featuring dark mode, animated visuals, and a custom AI chatbot trained on my resume, GitHub, and LinkedIn to answer questions in a conversational way.
-- 🛠️ [Tmood-Academy](https://github.com/TmoodGitHub/Tmood-Academy): A full-stack application showcasing CRUD operations, data filtering, and an interactive dashboard, with ongoing improvements as I expand my skillset.
+- 🌌 [Software Engineer Portfolio](https://vite-react-portfolio-lime.vercel.app/) -- [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio): A responsive portfolio built with React, Vite, and Tailwind CSS, featuring dark/light mode, animated transitions, and a starfield background. Includes a custom AI chatbot using OpenAI, Python, and embeddings, trained on my resume, GitHub, and LinkedIn.
 
 ---
 
