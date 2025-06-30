@@ -1,10 +1,6 @@
 # Hi, I'm Tamer Mahmoud 👋
 
-Software Engineer with 10+ years of experience driving technical excellence and building scalable, high-performance systems.
-Expertise in full-stack development, system design, and automation, with ability to enhance system efficiency, streamline data
-pipelines, and lead high-stakes architectural decisions. Spearheaded complex migrations to microservices, improved incident
-response times, and optimized feature delivery through strategic use of automation. Focused on solving challenging technical
-problems, growing into a leadership role, and maximizing impact and earning potential in a remote senior engineering position.
+Software Engineer with 10+ years of experience driving technical excellence and building scalable, high-performance systems. Expertise in full-stack development, system design, and automation, with ability to enhance system efficiency, streamline data pipelines, and lead high-stakes architectural decisions. Spearheaded complex migrations to microservices, improved incident response times, and optimized feature delivery through strategic use of automation. Focused on solving challenging technical problems, deepening technical expertise, and driving long-term value in a remote senior engineering position.
 
 ---
 
@@ -14,59 +10,57 @@ problems, growing into a leadership role, and maximizing impact and earning pote
 
 <table style="border: none; border-collapse: separate; border-spacing: 20px;">
   <tr>
-    <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 12px; padding: 20px;">
-
-<h4 style="margin-top: 0;">🛠 Full-Stack Development</h4>
-<ul>
-  <li>React, Node.js, Prisma, Sequelize</li>
-  <li>REST APIs, GraphQL</li>
-  <li>End-to-end feature delivery</li>
-</ul>
-<hr style="border-top: 1px dotted #ccc;"/>
-<h4>⚡ Performance & Automation</h4>
-<ul>
-  <li>CI/CD pipelines & observability</li>
-  <li>Data processing workflows</li>
-  <li>Feature flags (LaunchDarkly)</li>
-</ul>
-
+    <td width="33%" valign="top";">
+      <h4>🛠 Full-Stack Development</h4>
+      <ul>
+        <li>React, Ember.js, Next.js, Angular.js, Node.js</li>
+        <li>Prisma, Sequelize</li>
+        <li>REST APIs, GraphQL</li>
+        <li>End-to-end feature delivery</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top"">
+      <h4>📐 System Design & Architecture</h4>
+      <ul>
+        <li>Microservices & modular APIs</li>
+        <li>Scalable backend systems</li>
+        <li>Cloud-native patterns</li>
+      </ul>
+    </td>
+<td width="33%" valign="top"">
+  <h4>🧠 AI Engineering & Chatbots</h4>
+  <ul>
+    <li>LLM integration (OpenAI GPT)</li>
+    <li>Embedding-based retrieval (RAG)</li>
+    <li>Custom chatbot with KB support</li>
+  </ul>
 </td>
-<td width="33%" valign="top" style="background: #f9f9f9; border-radius: 12px; padding: 20px;">
-
-<h4 style="margin-top: 0;">📐 System Design & Architecture</h4>
-<ul>
-  <li>Microservices & modular APIs</li>
-  <li>Scalable backend systems</li>
-  <li>Cloud-native patterns</li>
-</ul>
-<div style="height: 20px;"></div>
-<hr style="border-top: 1px dotted #ccc;"/>
-<h4>☁️ Cloud & Infrastructure</h4>
-<ul>
-  <li>AWS, GCP, Docker</li>
-  <li>Serverless Framework</li>
-  <li>Deployment strategy</li>
-</ul>
-
-</td>
-<td width="33%" valign="top" style="background: #f9f9f9; border-radius: 12px; padding: 20px;">
-
-<h4 style="margin-top: 0;">🧠 Problem Solving</h4>
-<ul>
-  <li>Debugging & optimization</li>
-  <li>Incident response</li>
-  <li>Root cause analysis</li>
-</ul>
-<div style="height: 20px;"></div>
-<hr style="border-top: 1px dotted #ccc;"/>
-<h4>🎨 UI/UX & Collaboration</h4>
-<ul>
-  <li>Tailwind, Radix UI, Figma</li>
-  <li>Clean, responsive interfaces</li>
-  <li>Code reviews & mentorship</li>
-</ul>
-
-</td>
+  </tr>
+  <tr>
+    <td>
+      <h4>⚡ Performance & Automation</h4>
+      <ul>
+        <li>CI/CD pipelines & observability</li>
+        <li>Data processing workflows</li>
+        <li>Feature flags (LaunchDarkly)</li>
+      </ul>
+    </td>
+    <td>
+      <h4>☁️ Cloud & Infrastructure</h4>
+      <ul>
+        <li>AWS, GCP, Docker</li>
+        <li>Serverless Framework</li>
+        <li>Deployment strategy</li>
+      </ul>
+    </td>
+    <td>
+      <h4>🎨 UI/UX & Collaboration</h4>
+      <ul>
+        <li>Tailwind, Radix UI, Figma</li>
+        <li>Clean, responsive interfaces</li>
+        <li>Code reviews & mentorship</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
