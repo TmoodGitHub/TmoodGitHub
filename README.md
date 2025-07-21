@@ -232,7 +232,7 @@ Check out some of the things I’ve been building:
 
 - 🌌 [Software Engineer Portfolio](https://vite-react-portfolio-lime.vercel.app/) -- [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio): A responsive portfolio built with React, Vite, and Tailwind CSS, featuring dark/light mode, animated transitions, and a starfield background. Includes a custom AI chatbot using OpenAI, Python, and embeddings, trained on my resume, GitHub, and LinkedIn.
 
-- 💱 [Currency Exchange App](https://basic-currency-exchange-1.onrender.com/) -- [GitHub Repo](https://github.com/TmoodGitHub/basic-currency-exchange): A full-stack currency converter built with React, Vite, Node.js, Express, Sequelize, and PostgreSQL. Supports real-time currency conversion, dropdowns with symbols, jumbo result display, and paginated history saved to a PostgreSQL database.
+- 💱 [Currency Exchange App](https://basic-currency-exchange-client.onrender.com/) -- [GitHub Repo](https://github.com/TmoodGitHub/basic-currency-exchange): A full-stack currency converter built with React, Vite, Node.js, Express, Sequelize, and PostgreSQL. Supports real-time currency conversion, dropdowns with symbols, jumbo result display, and paginated history saved to a PostgreSQL database.
 
 
 ---
