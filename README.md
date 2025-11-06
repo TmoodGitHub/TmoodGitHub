@@ -271,8 +271,8 @@ Check out some of the things I’ve been building:
       </a>
     </td>
     <td align="center" width="380">
-      <a href="mailto:tamer.m.mahmoud@gmail.com">
-        <img src="https://img.shields.io/badge/Email-tamer.m.mahmoud@gmail.com-D14836?logo=gmail&logoColor=white" width="360" />
+      <a href="mailto:tamerintech@gmail.com">
+        <img src="https://img.shields.io/badge/Email-tamerintech@gmail.com-D14836?logo=gmail&logoColor=white" width="360" />
       </a>
     </td>
   </tr>
