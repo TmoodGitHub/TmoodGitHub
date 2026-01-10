@@ -13,47 +13,49 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table style="border: none; border-collapse: separate; border-spacing: 20px;">
   <tr>
-    <td width="33%" valign="top";">
-      <h4>🛠 Full-Stack Development</h4>
+    <td width="33%" valign="top">
+      <h4>☁️ Cloud & Distributed Systems</h4>
       <ul>
-        <li>React, Ember.js, Next.js, Angular.js, Node.js</li>
-        <li>Prisma, Sequelize</li>
-        <li>REST APIs, GraphQL</li>
-        <li>End-to-end feature delivery</li>
+        <li>Cloud-native systems on AWS and GCP</li>
+        <li>Event-driven and serverless architectures</li>
+        <li>Environment isolation and access control</li>
+        <li>Monitoring, alerting, and production operations</li>
       </ul>
     </td>
-    <td width="33%" valign="top"">
+    <td width="33%" valign="top">
+      <h4>🔧 Backend & Data Engineering</h4>
+      <ul>
+        <li>Production API ownership</li>
+        <li>Async and event-driven services</li>
+        <li>Data ingestion and processing pipelines</li>
+        <li>Python and Go backend services</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h4>📐 System Design & Architecture</h4>
       <ul>
-        <li>Microservices & modular APIs</li>
-        <li>Scalable backend systems</li>
-        <li>Cloud-native patterns</li>
+        <li>Microservices and modular APIs</li>
+        <li>Scalability and reliability tradeoffs</li>
+        <li>Cloud-native design patterns</li>
       </ul>
     </td>
-<td width="33%" valign="top"">
-  <h4>🧠 AI Engineering & Chatbots</h4>
-  <ul>
-    <li>LLM integration (OpenAI GPT)</li>
-    <li>Embedding-based retrieval (RAG)</li>
-    <li>Custom chatbot with KB support</li>
-  </ul>
-</td>
   </tr>
   <tr>
     <td>
-      <h4>⚡ Performance & Automation</h4>
+      <h4>🛠 Full-Stack Development</h4>
       <ul>
-        <li>CI/CD pipelines & observability</li>
-        <li>Data processing workflows</li>
-        <li>Feature flags (LaunchDarkly)</li>
+        <li>React, Ember.js, Next.js, Angular.js</li>
+        <li>Node.js, Python, PHP</li>
+        <li>REST APIs and GraphQL</li>
+        <li>End-to-end feature delivery</li>
       </ul>
     </td>
     <td>
-      <h4>☁️ Cloud & Infrastructure</h4>
+      <h4>🛢 Databases & Persistence</h4>
       <ul>
-        <li>AWS, GCP, Docker</li>
-        <li>Serverless Framework</li>
-        <li>Deployment strategy</li>
+        <li>PostgreSQL, MySQL, MongoDB</li>
+        <li>Schema design and migrations</li>
+        <li>Query performance and indexing</li>
       </ul>
     </td>
     <td>
@@ -61,7 +63,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <ul>
         <li>Tailwind, Radix UI, Figma</li>
         <li>Clean, responsive interfaces</li>
-        <li>Code reviews & mentorship</li>
+        <li>Code reviews and mentorship</li>
       </ul>
     </td>
   </tr>
@@ -97,7 +99,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Radix_UI-0F172A?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxNiIvPjwvc3ZnPg==" width="130" /><br/>Radix UI
+      <img src="https://img.shields.io/badge/Radix_UI-0F172A" width="130" /><br/>Radix UI
     </td>
   </tr>
 </table>
@@ -106,7 +108,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🔧 Backend
+### 🔧 Backend & Languages
 
 <div align="center">
 
@@ -116,19 +118,19 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" width="130" /><br/>Node.js
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" width="130" /><br/>Express.js
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="130" /><br/>Python
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" width="130" /><br/>Prisma
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" width="130" /><br/>Go
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Sequelize-3F62AB?logo=sequelize&logoColor=white" width="130" /><br/>Sequelize
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="130" /><br/>PHP
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/REST_API-005571?logo=swagger&logoColor=white" width="130" /><br/>REST API
     </td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="130" /><br/>GraphQL
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white" width="130" /><br/>ElasticSearch
     </td>
   </tr>
 </table>
@@ -137,7 +139,38 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🛢️ Databases & Infrastructure
+### ☁️ Cloud Platforms & Services
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>GCP
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white" width="130" /><br/>Lambda
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazon-s3&logoColor=white" width="130" /><br/>S3
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>Cloud Storage
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Cloud_Monitoring-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>Monitoring
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🛢 Databases & Infrastructure
 
 <div align="center">
 
@@ -153,13 +186,13 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="130" /><br/>MongoDB
     </td>
     <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Athena
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>BigQuery
+    </td>
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="130" /><br/>Docker
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>GCP
     </td>
   </tr>
 </table>
@@ -168,7 +201,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🧰 DevOps & Tooling
+### ⚙️ DevOps, Observability & Tooling
 
 <div align="center">
 
@@ -181,47 +214,39 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" width="130" /><br/>CircleCI
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" width="130" /><br/>Jira
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" width="130" /><br/>OpenAI API
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/LaunchDarkly-212121?logo=launchdarkly&logoColor=white" width="130" /><br/>LaunchDarkly
-    </td>
-    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" width="130" /><br/>Datadog
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Serverless-0D0D0D?logo=serverless&logoColor=white" width="130" /><br/>Serverless
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/AWS_CLI-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS CLI
     </td>
   </tr>
 </table>
 
 </div>
 
+
 ---
 
-### 🧪 Testing Frameworks & Libraries
+### 🤖 AI-Assisted Development
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/QUnit-9B30FF?logo=qunit&logoColor=white" width="130" /><br/>QUnit
+      <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" width="130" /><br/>ChatGPT
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" width="130" /><br/>Cypress
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white" width="130" /><br/>Copilot
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/React_Testing_Library-E33332?logo=testing-library&logoColor=white" width="130" /><br/>RTL
+      <img src="https://img.shields.io/badge/Cursor-000000" width="130" /><br/>Cursor
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white" width="130" /><br/>Mocha
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white" width="130" /><br/>Chai
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" width="130" /><br/>Jest
+      <img src="https://img.shields.io/badge/Tabnine-3B82F6" width="130" /><br/>Tabnine
     </td>
   </tr>
 </table>
@@ -230,35 +255,35 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-## 🚀 Projects
-Check out some of the things I’ve been building:
-
-- 🌌 [Software Engineer Portfolio](https://vite-react-portfolio-lime.vercel.app/) -- [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio): A responsive portfolio built with React, Vite, and Tailwind CSS, featuring dark/light mode, animated transitions, and a starfield background. Includes a custom AI chatbot using OpenAI, Python, and embeddings, trained on my resume, GitHub, and LinkedIn.
-
-- 💱 [Currency Exchange App](https://basic-currency-exchange-client.onrender.com/) -- [GitHub Repo](https://github.com/TmoodGitHub/basic-currency-exchange): A full-stack currency converter built with React, Vite, Node.js, Express, Sequelize, and PostgreSQL. Supports real-time currency conversion, dropdowns with symbols, jumbo result display, and paginated history saved to a PostgreSQL database.
-
-
----
-
-## 🎯 A Bit About Me
-- 🧠 I think debugging is like solving escape room puzzles, except the bugs don’t want you to win.
-- 🍳 I code better after a good Kashi waffle bites cereal 🤤.
-- 🕹️ My laptop has survived intense full-stack battles and survived. Barely.
-- 🔄 Currently working on leveling up my AI skills—without getting replaced by a toaster.
-
----
-
 ## 🧠 Learning & Growth
-- Exploring LLM evaluation, GenAI systems, and prompt engineering
-- Sharpening Go and Python for backend automation
-- Studying system design patterns and high-scale architecture
+
+- Running and debugging distributed systems in production
+- Improving alerting, monitoring, and on-call workflows
+- Applying GenAI tools inside existing applications
+- Writing clearer and faster backend code in Python and Go
+- Making better system design decisions through real scaling work
+
+---
+
+## 🚀 Projects
+
+- 🌌 **Software Engineer Portfolio**  
+  [Live Site](https://vite-react-portfolio-lime.vercel.app/) ·
+  [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio)  
+  React and Vite portfolio with a custom AI chatbot built using OpenAI, Python, and embedding-based retrieval.
+
+- 💱 **Currency Exchange App**  
+  [Live Site](https://basic-currency-exchange-client.onrender.com/) ·
+  [GitHub Repo](https://github.com/TmoodGitHub/basic-currency-exchange)  
+  Full-stack currency converter using React, Node.js, Express, Sequelize, and PostgreSQL.
 
 ---
 
 ## 🎮 Fun Facts / Interests
-- I read manga more than I should admit
-- I enjoy volleyball, lifting, and dad-juggling toddler chaos
-- I prefer cartoons and anime over live-action anything
+
+- Manga reader and anime fan
+- Volleyball, lifting, and toddler chaos
+- Enjoys debugging production issues
 
 ---
 
@@ -282,5 +307,3 @@ Check out some of the things I’ve been building:
 </table>
 
 </div>
-
-
