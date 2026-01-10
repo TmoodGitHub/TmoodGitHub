@@ -18,10 +18,10 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <ul>
         <li>Cloud-native systems on AWS and GCP</li>
         <li>Event-driven and serverless architectures</li>
+        <li>Infrastructure as code using Serverless Framework</li>
         <li>Environment isolation and access control</li>
         <li>Monitoring, alerting, and production operations</li>
-        <li>Serverless Framework and infrastructure-as-code workflows</li>
-        <li>Cloud observability with CloudWatch and Datadog</li>
+        <li>Observability with CloudWatch and Datadog</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -48,7 +48,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <h4>🛠 Full-Stack Development</h4>
       <ul>
         <li>React, Ember.js, Next.js, Angular</li>
-        <li>Node.js, Python, PHP</li>
+        <li>TypeScript and JavaScript</li>
         <li>REST APIs and GraphQL</li>
         <li>End-to-end feature delivery</li>
       </ul>
@@ -57,9 +57,8 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <h4>🛢 Databases & Persistence</h4>
       <ul>
         <li>PostgreSQL, MySQL, MongoDB</li>
-        <li>Schema design and migrations</li>
-        <li>Query performance and indexing</li>
-        <li>ORMs including Sequelize and Prisma</li>
+        <li>Sequelize and Prisma ORMs</li>
+        <li>Schema design, migrations, and indexing</li>
       </ul>
     </td>
     <td>
@@ -91,6 +90,8 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
     <td align="center" width="150"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" width="130" /><br/>Next.js</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="130" /><br/>Angular</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white" width="130" /><br/>Ember.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" width="130" /><br/>TypeScript</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" width="130" /><br/>Vite</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Radix_UI-0F172A" width="130" /><br/>Radix UI</td>
   </tr>
@@ -131,6 +132,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazon-s3&logoColor=white" width="130" /><br/>S3</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_Kinesis_Firehose-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Firehose</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white" width="130" /><br/>CloudWatch</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>Cloud Storage</td>
   </tr>
 </table>
 
@@ -164,10 +166,12 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 <table>
   <tr>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="130" /><br/>Git</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" width="130" /><br/>GitHub</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white" width="130" /><br/>GitLab</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" width="130" /><br/>Jira</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" width="130" /><br/>CircleCI</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" width="130" /><br/>Datadog</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Serverless-0D0D0D?logo=serverless&logoColor=white" width="130" /><br/>Serverless</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/AWS_CLI-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS CLI</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" width="130" /><br/>Bash</td>
   </tr>
 </table>
 
@@ -183,8 +187,11 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
   <tr>
     <td align="center" width="150"><img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" width="130" /><br/>OpenAI API</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Embeddings-0F172A" width="130" /><br/>Embeddings</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/RAG-3B82F6" width="130" /><br/>RAG</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/RAG-3B82F6" width="130" /><br/>Retrieval Augmented Generation</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" width="130" /><br/>ChatGPT</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white" width="130" /><br/>GitHub Copilot</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Cursor-000000" width="130" /><br/>Cursor</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Tabnine-3B82F6" width="130" /><br/>Tabnine</td>
   </tr>
 </table>
 
@@ -192,12 +199,45 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-## 🧠 Learning & Growth
+## 🚀 Projects
 
-- Running and debugging distributed systems in production
-- Improving alerting, monitoring, and on-call workflows
-- Applying GenAI tools inside existing applications
-- Writing clearer and faster backend code in Python and Go
-- Making better system design decisions through real scaling work
+- 🌌 **Software Engineer Portfolio**  
+  [Live Site](https://vite-react-portfolio-lime.vercel.app/) ·
+  [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio)  
+  React and Vite portfolio with a custom AI chatbot built using OpenAI, Python, and embedding-based retrieval.
+
+- 💱 **Currency Exchange App**  
+  [Live Site](https://basic-currency-exchange-client.onrender.com/) ·
+  [GitHub Repo](https://github.com/TmoodGitHub/basic-currency-exchange)  
+  Full-stack currency converter using React, Node.js, Express, Sequelize, and PostgreSQL.
 
 ---
+
+## 🎮 Fun Facts / Interests
+
+- Manga reader and anime fan
+- Volleyball, lifting, and toddler chaos
+- Enjoys debugging production issues
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="260">
+      <a href="https://linkedin.com/in/tmood" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Tamer%20Mahmoud-0A66C2?logo=linkedin&logoColor=white" width="240" />
+      </a>
+    </td>
+    <td align="center" width="380">
+      <a href="mailto:tamerintech@gmail.com">
+        <img src="https://img.shields.io/badge/Email-tamerintech@gmail.com-D14836?logo=gmail&logoColor=white" width="360" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
