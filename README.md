@@ -1,6 +1,6 @@
 # Hi, I'm Tamer Mahmoud 👋
 
-Software Engineer with 10+ years of experience working across backend, frontend, and cloud systems. Strong background in
+Senior Software Engineer with 10+ years of experience working across backend, frontend, and cloud systems. Strong background in
 building and operating production APIs, event-driven services, and data pipelines in AWS and GCP. Experience spans the full
 production lifecycle, from local development and code review through deployment, environment and infrastructure
 management, monitoring, debugging, and ongoing feature iteration in remote teams.
