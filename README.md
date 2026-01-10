@@ -187,7 +187,6 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
   <tr>
     <td align="center" width="150"><img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" width="130" /><br/>OpenAI API</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Embeddings-0F172A" width="130" /><br/>Embeddings</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/RAG-3B82F6" width="130" /><br/>Retrieval Augmented Generation</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" width="130" /><br/>ChatGPT</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white" width="130" /><br/>GitHub Copilot</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Cursor-000000" width="130" /><br/>Cursor</td>
@@ -204,7 +203,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 - 🌌 **Software Engineer Portfolio**  
   [Live Site](https://vite-react-portfolio-lime.vercel.app/) ·
   [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio)  
-  React and Vite portfolio with a custom AI chatbot built using OpenAI, Python, and embedding-based retrieval.
+  React and Vite portfolio with a custom AI chatbot built using OpenAI, Python, and embedding-based retrieval with contextual prompt injection.
 
 - 💱 **Currency Exchange App**  
   [Live Site](https://basic-currency-exchange-client.onrender.com/) ·
