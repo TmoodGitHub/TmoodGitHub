@@ -20,6 +20,8 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
         <li>Event-driven and serverless architectures</li>
         <li>Environment isolation and access control</li>
         <li>Monitoring, alerting, and production operations</li>
+        <li>Serverless Framework and infrastructure-as-code workflows</li>
+        <li>Cloud observability with CloudWatch and Datadog</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -27,8 +29,9 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
       <ul>
         <li>Production API ownership</li>
         <li>Async and event-driven services</li>
-        <li>Data ingestion and processing pipelines</li>
-        <li>Python and Go backend services</li>
+        <li>SQL-heavy systems and query optimization</li>
+        <li>Data ingestion and processing pipelines (Athena, Firehose)</li>
+        <li>Python, Go, and Node.js backend services</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -56,6 +59,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
         <li>PostgreSQL, MySQL, MongoDB</li>
         <li>Schema design and migrations</li>
         <li>Query performance and indexing</li>
+        <li>ORMs including Sequelize and Prisma</li>
       </ul>
     </td>
     <td>
@@ -83,24 +87,12 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" width="130" /><br/>React
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" width="130" /><br/>Next.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="130" /><br/>Angular
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white" width="130" /><br/>Ember.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Radix_UI-0F172A" width="130" /><br/>Radix UI
-    </td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" width="130" /><br/>React</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" width="130" /><br/>Next.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="130" /><br/>Angular</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white" width="130" /><br/>Ember.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Radix_UI-0F172A" width="130" /><br/>Radix UI</td>
   </tr>
 </table>
 
@@ -114,24 +106,12 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" width="130" /><br/>Node.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="130" /><br/>Python
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" width="130" /><br/>Go
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="130" /><br/>PHP
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/REST_API-005571?logo=swagger&logoColor=white" width="130" /><br/>REST API
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="130" /><br/>GraphQL
-    </td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" width="130" /><br/>Node.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="130" /><br/>Python</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" width="130" /><br/>Go</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="130" /><br/>PHP</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/REST_API-005571?logo=swagger&logoColor=white" width="130" /><br/>REST API</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="130" /><br/>GraphQL</td>
   </tr>
 </table>
 
@@ -145,24 +125,12 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>GCP
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white" width="130" /><br/>Lambda
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazon-s3&logoColor=white" width="130" /><br/>S3
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>Cloud Storage
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Cloud_Monitoring-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>Monitoring
-    </td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>GCP</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white" width="130" /><br/>Lambda</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazon-s3&logoColor=white" width="130" /><br/>S3</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_Kinesis_Firehose-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Firehose</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white" width="130" /><br/>CloudWatch</td>
   </tr>
 </table>
 
@@ -176,24 +144,12 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" width="130" /><br/>PostgreSQL
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="130" /><br/>MySQL
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="130" /><br/>MongoDB
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Athena
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>BigQuery
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="130" /><br/>Docker
-    </td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" width="130" /><br/>PostgreSQL</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="130" /><br/>MySQL</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="130" /><br/>MongoDB</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_Athena-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Athena</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>BigQuery</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="130" /><br/>Docker</td>
   </tr>
 </table>
 
@@ -207,26 +163,15 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="130" /><br/>Git
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" width="130" /><br/>CircleCI
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" width="130" /><br/>Datadog
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Serverless-0D0D0D?logo=serverless&logoColor=white" width="130" /><br/>Serverless
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/AWS_CLI-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS CLI
-    </td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="130" /><br/>Git</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" width="130" /><br/>CircleCI</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" width="130" /><br/>Datadog</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Serverless-0D0D0D?logo=serverless&logoColor=white" width="130" /><br/>Serverless</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/AWS_CLI-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>AWS CLI</td>
   </tr>
 </table>
 
 </div>
-
 
 ---
 
@@ -236,18 +181,10 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" width="130" /><br/>ChatGPT
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white" width="130" /><br/>Copilot
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Cursor-000000" width="130" /><br/>Cursor
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Tabnine-3B82F6" width="130" /><br/>Tabnine
-    </td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" width="130" /><br/>OpenAI API</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Embeddings-0F172A" width="130" /><br/>Embeddings</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/RAG-3B82F6" width="130" /><br/>RAG</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" width="130" /><br/>ChatGPT</td>
   </tr>
 </table>
 
@@ -264,46 +201,3 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 - Making better system design decisions through real scaling work
 
 ---
-
-## 🚀 Projects
-
-- 🌌 **Software Engineer Portfolio**  
-  [Live Site](https://vite-react-portfolio-lime.vercel.app/) ·
-  [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio)  
-  React and Vite portfolio with a custom AI chatbot built using OpenAI, Python, and embedding-based retrieval.
-
-- 💱 **Currency Exchange App**  
-  [Live Site](https://basic-currency-exchange-client.onrender.com/) ·
-  [GitHub Repo](https://github.com/TmoodGitHub/basic-currency-exchange)  
-  Full-stack currency converter using React, Node.js, Express, Sequelize, and PostgreSQL.
-
----
-
-## 🎮 Fun Facts / Interests
-
-- Manga reader and anime fan
-- Volleyball, lifting, and toddler chaos
-- Enjoys debugging production issues
-
----
-
-## 📫 Let’s Connect
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="260">
-      <a href="https://linkedin.com/in/tmood" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Tamer%20Mahmoud-0A66C2?logo=linkedin&logoColor=white" width="240" />
-      </a>
-    </td>
-    <td align="center" width="380">
-      <a href="mailto:tamerintech@gmail.com">
-        <img src="https://img.shields.io/badge/Email-tamerintech@gmail.com-D14836?logo=gmail&logoColor=white" width="360" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
