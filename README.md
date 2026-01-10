@@ -44,7 +44,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
     <td>
       <h4>🛠 Full-Stack Development</h4>
       <ul>
-        <li>React, Ember.js, Next.js, Angular.js</li>
+        <li>React, Ember.js, Next.js, Angular</li>
         <li>Node.js, Python, PHP</li>
         <li>REST APIs and GraphQL</li>
         <li>End-to-end feature delivery</li>
@@ -230,7 +230,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🤖 AI-Assisted Development
+### 🤖 Applied AI Integration
 
 <div align="center">
 
