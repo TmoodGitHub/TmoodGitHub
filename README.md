@@ -80,45 +80,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🎨 Frontend
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" width="130" /><br/>React</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" width="130" /><br/>Next.js</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="130" /><br/>Angular</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white" width="130" /><br/>Ember.js</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" width="130" /><br/>TypeScript</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" width="130" /><br/>Vite</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Radix_UI-0F172A" width="130" /><br/>Radix UI</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 🔧 Backend & Languages
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" width="130" /><br/>Node.js</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="130" /><br/>Python</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" width="130" /><br/>Go</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="130" /><br/>PHP</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/REST_API-005571?logo=swagger&logoColor=white" width="130" /><br/>REST API</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="130" /><br/>GraphQL</td>
-  </tr>
-</table>
-
-</div>
-
----
+## ⭐ Primary Tech Stack
 
 ### ☁️ Cloud Platforms & Services
 
@@ -132,7 +94,6 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazon-s3&logoColor=white" width="130" /><br/>S3</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_Kinesis_Firehose-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Firehose</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white" width="130" /><br/>CloudWatch</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>Cloud Storage</td>
   </tr>
 </table>
 
@@ -140,17 +101,85 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🛢 Databases & Infrastructure
+### 🔧 Backend & Data
 
 <div align="center">
 
 <table>
   <tr>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" width="130" /><br/>Node.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="130" /><br/>Python</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" width="130" /><br/>Go</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" width="130" /><br/>PostgreSQL</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="130" /><br/>MySQL</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="130" /><br/>MongoDB</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Amazon_Athena-232F3E?logo=amazon-aws&logoColor=white" width="130" /><br/>Athena</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" width="130" /><br/>BigQuery</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🎨 Frontend (Primary)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" width="130" /><br/>React</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" width="130" /><br/>TypeScript</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ➕ Supporting / Additional Experience
+
+### 🎨 Frontend Frameworks & UI
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" width="130" /><br/>Next.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="130" /><br/>Angular</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white" width="130" /><br/>Ember.js</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" width="130" /><br/>Vite</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" width="130" /><br/>Tailwind</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Radix_UI-0F172A" width="130" /><br/>Radix UI</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🔧 Backend & Languages (Supporting)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="130" /><br/>PHP</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/REST_API-005571?logo=swagger&logoColor=white" width="130" /><br/>REST API</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="130" /><br/>GraphQL</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🛢 Databases & Infrastructure (Supporting)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="130" /><br/>MySQL</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="130" /><br/>MongoDB</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="130" /><br/>Docker</td>
   </tr>
 </table>
@@ -159,7 +188,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### ⚙️ DevOps, Observability & Tooling
+### ⚙️ DevOps, Observability & Tooling (Supporting)
 
 <div align="center">
 
@@ -167,6 +196,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
   <tr>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="130" /><br/>Git</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" width="130" /><br/>GitHub</td>
+    <td align="center" width="150"><img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" width="130" /><br/>Bitbucket</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white" width="130" /><br/>GitLab</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" width="130" /><br/>Jira</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" width="130" /><br/>CircleCI</td>
@@ -179,7 +209,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 
 ---
 
-### 🤖 Applied AI Integration
+### 🤖 Applied AI Integration (Supporting)
 
 <div align="center">
 
@@ -187,8 +217,6 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
   <tr>
     <td align="center" width="150"><img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" width="130" /><br/>OpenAI API</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Embeddings-0F172A" width="130" /><br/>Embeddings</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/RAG-3B82F6" width="130" /><br/>Retrieval Augmented Generation</td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" width="130" /><br/>ChatGPT</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white" width="130" /><br/>GitHub Copilot</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Cursor-000000" width="130" /><br/>Cursor</td>
     <td align="center" width="150"><img src="https://img.shields.io/badge/Tabnine-3B82F6" width="130" /><br/>Tabnine</td>
@@ -196,6 +224,7 @@ management, monitoring, debugging, and ongoing feature iteration in remote teams
 </table>
 
 </div>
+
 
 ---
 
