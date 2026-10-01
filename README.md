@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend, Cloud & Data Systems · Northern Virginia · Open to Remote**
 
-I have a decade of experience building production systems: cloud services, data pipelines, microservices and APIs, and databases. That includes system design, untangling legacy systems, and building software and SaaS products that real people use every day. Lately I've been building with LLMs: retrieval (RAG), vision models, structured output, and AI-assisted triage. I use AI coding tools every day and review what they produce as carefully as any other code. I'm also an AWS Certified Solutions Architect - Associate, which backs up my work in cloud architecture.
+Full stack engineer building production systems: cloud services, data pipelines, microservices and APIs, and databases. That includes system design, untangling legacy systems, and building software and SaaS products that real people use every day. Lately I've been building with LLMs: retrieval (RAG), vision models, structured output, and AI-assisted triage. I use AI coding tools every day and review what they produce as carefully as any other code. I'm also an AWS Certified Solutions Architect - Associate, which backs up my work in cloud architecture.
 
 ---
 
