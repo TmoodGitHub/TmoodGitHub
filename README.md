@@ -38,7 +38,7 @@ Git, built from scratch in Node.js. Not a wrapper and not a tutorial follow-alon
 ### 🌌 AI-Powered Portfolio
 [Live Site](https://vite-react-portfolio-lime.vercel.app/) · [GitHub Repo](https://github.com/TmoodGitHub/vite-react-portfolio)
 
-My portfolio site, with a chatbot that answers questions about my work. A Python backend uses OpenAI embeddings to find the most relevant parts of my resume and project history, drops weak matches, and answers from those.
+My portfolio site, with a chatbot that answers questions about my work. A Node.js serverless API uses OpenAI embeddings, built by a Python script, to find the most relevant parts of my resume and project history, drops weak matches, and answers from those.
 
 `React` `Vite` `Tailwind CSS` `Python` `OpenAI API` `Embeddings`
 
@@ -59,10 +59,6 @@ My portfolio site, with a chatbot that answers questions about my work. A Python
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Federal Healthcare Systems</h4>
-      Work in the VA's VistA environment using M (MUMPS) and FileMan, tracing access and feature problems back to user profiles, rules, and permissions. Worked on a C# .NET Framework application that used Entity Framework to connect to Oracle, and modernized a legacy Visual Basic 6 application toward .NET, deploying it for multiple users on Citrix with CodeQL and Fortify code scanning.
-    </td>
-    <td width="50%" valign="top">
       <h4>Accessible Platforms</h4>
       Eight years as the sole engineer on a national American Sign Language proficiency evaluation platform: rebuilt its MSSQL data layer holding 30+ years of records, moved it to React and Node.js, and brought every screen up to WCAG 2.1 AA accessibility.
     </td>
@@ -77,9 +73,8 @@ My portfolio site, with a chatbot that answers questions about my work. A Python
 |---|---|
 | **Languages** | TypeScript · JavaScript · Python · Go · PHP · Java |
 | **Backend** | Node.js · REST APIs · GraphQL · Event-driven architecture · Microservices |
-| **Databases** | PostgreSQL · MongoDB · MySQL · MSSQL · Oracle · BigQuery · Amazon Athena |
+| **Databases** | PostgreSQL · MongoDB · MySQL · MSSQL · BigQuery · Amazon Athena |
 | **Cloud** | AWS (Lambda, S3, SQS, SNS, Kinesis, IAM, CloudFormation, API Gateway) · GCP (Pub/Sub) · Docker |
-| **Healthcare & legacy** | VistA · M (MUMPS) · FileMan · C# · .NET Framework · Entity Framework · Visual Basic 6 |
 | **Frontend** | React · Next.js · Angular · Ember.js · Tailwind CSS |
 | **AI** | Anthropic Claude API · OpenAI API · Embeddings · Retrieval (RAG) · Prompt design |
 | **Testing & CI** | Vitest · Jest · Cypress · React Testing Library · GitHub Actions · CircleCI |
