@@ -11,9 +11,9 @@ Full stack engineer building production systems: cloud services, data pipelines,
 ### 🛡️ AI Security Triage *(in progress)*
 [GitHub Repo](https://github.com/TmoodGitHub/ai-security-triage)
 
-AI-assisted triage of AWS security logs. It takes in CloudTrail events, cleans them into one standard format, removes duplicates, and stores them in PostgreSQL. For each finding, an LLM looks up related threat information and suggests a severity level with a short explanation. An analyst reviews every suggestion before anything is acted on. Planned next: a Findings API, an analyst screen, accuracy tests for the AI step, AWS infrastructure in Terraform, and tests on every push with GitHub Actions.
+AI-assisted triage of AWS security logs. It takes in CloudTrail events, cleans them into one standard format, removes duplicates, and stores them in PostgreSQL. For each event, the code pulls related activity from the same user or IP address in the last 24 hours, and Claude suggests a severity with its reasoning as schema-checked structured output. An analyst reviews every suggestion in a React dashboard. Hand-labeled evals measure accuracy, misses rated too low or too high, cost per 1,000 alerts, and time per alert, and tests run on every push with GitHub Actions. Next: deploying to AWS with Terraform.
 
-`TypeScript` `Node.js` `Python` `PostgreSQL` `AWS (Lambda, SQS, S3)` `Terraform` `Vitest`
+`TypeScript` `Node.js` `Python` `PostgreSQL` `Claude API` `React` `Evals` `GitHub Actions`
 
 ---
 
@@ -50,7 +50,7 @@ My portfolio site, with a chatbot that answers questions about my work. A Python
   <tr>
     <td width="50%" valign="top">
       <h4>Security Data Pipelines</h4>
-      Ingestion and detection pipelines handling millions of security events per day from 100+ vendor integrations, at 99.9%+ availability. Go-based Pub/Sub services, a zero-downtime schema migration across 140+ files, and investigation tools (API, query engine, and React screens) for a 24/7 security operations team.
+      Ingestion and detection pipelines handling millions of security events per day from 100+ vendor integrations, at 99.9%+ availability. Fixed missing data in a Go microservice by adding handlers and tests for events it never handled, a zero-downtime schema migration across 140+ files, and investigation tools (API, query engine, and React screens) for a 24/7 security operations team.
     </td>
     <td width="50%" valign="top">
       <h4>Ad Tech Data at Scale</h4>
