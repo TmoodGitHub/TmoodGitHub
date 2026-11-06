@@ -9,7 +9,7 @@ Full stack engineer building production systems: cloud services, data pipelines,
 ## Projects
 
 ### 🛡️ AI Security Triage
-[Live Demo](https://d27ph3vqvw136n.cloudfront.net) · [GitHub Repo](https://github.com/TmoodGitHub/ai-security-triage)
+[Live Demo](https://d27ph3vqvw136n.cloudfront.net) · [GitHub Repo](https://github.com/TmoodGitHub/ai-security-triage)<br>
 Demo login (view-only): `demo@example.com` / `demo-hire-Tamer-pronto-2026`
 
 AI-assisted triage of AWS security logs, live on AWS. CloudTrail files uploaded to S3 flow through an event-driven pipeline (SQS and Lambda, in TypeScript and Python) into Aurora Serverless v2, reached only through the RDS Data API. For each event, Claude suggests a severity and its reasoning as schema-checked structured output, using related activity from the same user or IP address in the last 24 hours, and an analyst reviews every finding in a React dashboard behind Cognito sign-in. Hand-labeled evals on 40 cases: 80% exact, 95% within one level, about $3 per 1,000 alerts, and planted prompt injections held in 16 of 16 cases. Everything is in Terraform and deployed by GitHub Actions over OIDC, and it costs about $1 a month when idle.
