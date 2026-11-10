@@ -21,8 +21,7 @@ AI-assisted triage of AWS security logs, live on AWS. CloudTrail files uploaded 
 ### 🌿 Plant Health Predictor
 [GitHub Repo](https://github.com/TmoodGitHub/plant-health-predictor)
 
-Upload 2 to 10 photos of a plant taken over time and get back a health report. It identifies the plant (common name, scientific name, and family), scores each photo for health signs, finds trends across the whole set, and predicts where the plant is heading over the next 7 to 14 days, with recommended actions. The model's output is checked against a schema, with retries, rate limiting, and separate sessions per user. Reports can be exported.
-
+Upload 2 to 10 photos of a plant taken over time and get back a health report. It identifies the plant (common name, scientific name, and family), scores each photo for health signs, finds trends across the whole set, and predicts where the plant is heading over the next 7 to 14 days, with recommended actions. The model's output is checked field by field before it's used, uploads are checked by their file signature, requests are rate limited per IP, and reports can be exported as PDF.
 `Node.js` `Express` `Anthropic Claude API` `Vision AI` `Multer` `Prompt engineering`
 
 ---
